@@ -1,16 +1,15 @@
-## Hi there 👋
+# Жемчужина профиля
 
-<!--
-**kolychestiy/kolychestiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[База знаний](https://github.com/kolychestiy/olymp) по олимпиадному программированию.
 
-Here are some ideas to get you started:
+# Исследовательская работа
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Курсовая работа](https://github.com/kolychestiy/veng) по сравнительному анализу венгорского алгоритма с потоковыми.
+
+# Баловство
+
+[Вращающиеся многранники](https://github.com/kolychestiy/3D-graphics). Отдушина.
+
+## Связь
+
+[telegram](https://t.me/kolychestiy) | [vk](https://vk.com/kolychestiy) | 📧 kirillkristal@gmail.com
